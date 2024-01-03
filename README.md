@@ -37,7 +37,7 @@ Duplicate the `.env.example` file as `.env` and edit the lines related to the da
 
 Upload this code to a PRIVATE repository in GitHub. Invite the user [harlekoy](https://github.com/harlekoy/) to it.
 
-![Image](https://i.imgur.com/wxemxjk.png)
+![Image](https://github.com/vueschool/chipper-api/assets/10015302/3c70c9b0-269a-4f76-9304-e31a54c8b2a9)
 
 Once you are ready, proceed to address the following tasks one by one.
 
